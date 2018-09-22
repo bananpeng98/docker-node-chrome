@@ -1,5 +1,5 @@
 FROM node:carbon@sha256:d97f5bf54e016ad55dd0475f8710b99be14884ab1afcae8875f8092341264b0c
-LABEL maintainer "Tim Brust <tim.brust@sinnerschrader.com>"
+LABEL maintainer "Eric Norman <eric.norman98@hotmail.se>"
 
 ARG REFRESHED_AT
 ENV REFRESHED_AT $REFRESHED_AT
